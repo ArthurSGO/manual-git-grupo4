@@ -1,7 +1,5 @@
 # Manual GIT
 
----
-
 Este projeto busca criar um manual de uso do **GIT** e **GITHUB**, os assuntos que serão abordados são:
 
 ---
