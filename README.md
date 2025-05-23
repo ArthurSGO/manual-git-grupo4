@@ -26,7 +26,8 @@ Este projeto busca criar um manual de uso do **GIT** e **GITHUB**, os assuntos q
 ### Autores
 
 - [Arthur Soares Gardim](https://github.com/ArthurSGO)
-- [Heloise Henriques Maciel](https://github.com/helo-maci)
 - [Fernando Cardoso dos Santos](https://github.com/Fzinxx)
+- [Heloise Henriques Maciel](https://github.com/helo-maci)
+- [Kaiki Teles de Andrade](https://github.com/Ikiak)
 - [Pedro Henrique de Figueiredo](https://github.com/pedrofigueiredo1)
 - [Vinicius Pedron Sirigu](https://github.com/pedron171)
