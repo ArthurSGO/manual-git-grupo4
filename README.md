@@ -23,7 +23,7 @@ Este projeto busca criar um manual de uso do **GIT** e **GITHUB**, os assuntos q
 
 ---
 
-### Autores
+### Equipe 
 
 - [Arthur Soares Gardim](https://github.com/ArthurSGO)
 - [Fernando Cardoso dos Santos](https://github.com/Fzinxx)
