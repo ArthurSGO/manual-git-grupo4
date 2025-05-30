@@ -83,4 +83,3 @@ Quando o Git não consegue mesclar automaticamente alterações que afetam as me
 ---
 
 Com estes conceitos e comandos, você estará bem equipado para gerenciar ramificações e mesclagens em seus projetos Git de forma organizada e eficiente!
-``` ````
