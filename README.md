@@ -31,3 +31,11 @@ Este projeto busca criar um manual de uso do **GIT** e **GITHUB**, os assuntos q
 - [Kaiki Teles de Andrade](https://github.com/Ikiak)
 - [Pedro Henrique de Figueiredo](https://github.com/pedrofigueiredo1)
 - [Vinicius Pedron Sirigu](https://github.com/pedron171)
+
+### Links para os arquivos
+
+1. [Introdução ao Git e ao Controle de Versão](./01-introducao.md)
+2. [Download, Instalação e Configuração Inicial do Git](./02-instalacao.md)
+3. [Comandos Básicos do Git](./03-comandos-basicos.md)
+4. [Branches e Merges no Git](./04-ramicacoes-merge.md)
+5. [Criação de Conta no GitHub e Criação de Repositório](./05-github.md)
