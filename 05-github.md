@@ -1,4 +1,3 @@
-git check-ignore -v nome-do-arquivo
 ##Pedro Henrique de Figueiredo
 
 # Criação de Conta no GitHub e Criação de Repositório
