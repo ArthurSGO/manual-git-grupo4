@@ -39,3 +39,4 @@ Este projeto busca criar um manual de uso do **GIT** e **GITHUB**, os assuntos q
 3. [Comandos Básicos do Git](./03-comandos-basicos.md)
 4. [Branches e Merges no Git](./04-ramicacoes-merge.md)
 5. [Criação de Conta no GitHub e Criação de Repositório](./05-github.md)
+6. [Clone, Push e Pull no Git](./06-clone,%20push%20e%20pull.md)
