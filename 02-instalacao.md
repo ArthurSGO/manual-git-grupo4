@@ -1,6 +1,6 @@
 ##Arthur Soares Gardim  -   14526
 
-# Como Baixar e Instalar o Git
+# Download, Instalação e Configuração Inicial do Git
 
 ## Windows
 
