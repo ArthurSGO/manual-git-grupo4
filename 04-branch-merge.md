@@ -1,3 +1,5 @@
+## Vinicius Pedron
+
 ### Branches e Merge
 ### Introdução
 Ao trabalhar com projetos em equipe no Git, é comum que várias pessoas desenvolvam funcionalidades diferentes ao mesmo tempo. Para que isso ocorra de forma organizada e sem conflitos, utilizamos branches (ramificações). Elas permitem criar linhas de desenvolvimento paralelas, que depois podem ser unidas (merge) à branch principal.
