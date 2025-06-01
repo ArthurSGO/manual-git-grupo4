@@ -60,13 +60,15 @@ Se não houver conflitos, o Git fará a mesclagem automaticamente.
 Conflitos acontecem quando as duas branches alteram o mesmo trecho de um arquivo.
 
 Exemplo de conflito:
-<<<<<<< HEAD
-conteúdo da main
-=======
-conteúdo da feature
->>>>>>> pagina-contato
+
+ HEAD
+>conteúdo da main
+
+ conteúdo da feature
+>pagina-contato
 
 Como resolver:
+
 1.Abra o arquivo com conflito.
 
 2.Edite o trecho conflituoso, decidindo o que manter.
@@ -81,18 +83,18 @@ $ git commit
 
 ## 7. Demonstração completa (exemplo prático)
 
-# 1. Criar uma nova branch
+1. Criar uma nova branch
 git checkout -b pagina-contato
 
-# 2. Fazer alterações no código
+2. Fazer alterações no código
 echo "Página de contato" > contato.html
 
-# 3. Adicionar e commitar as mudanças
+3. Adicionar e commitar as mudanças
 git add contato.html
 git commit -m "feat: adiciona página de contato"
 
-# 4. Voltar para a main
+4. Voltar para a main
 git checkout main
 
-# 5. Fazer o merge
+5. Fazer o merge
 git merge pagina-contato
